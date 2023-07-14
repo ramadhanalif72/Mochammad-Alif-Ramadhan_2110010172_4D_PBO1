@@ -195,5 +195,5 @@ try {
 
 ## Pembuat
 
-Nama: Muhammad Edya Rosadi
-NPM: 2110010001
+Nama: Mochammad Alif Ramadhan
+NPM: 2110010172
