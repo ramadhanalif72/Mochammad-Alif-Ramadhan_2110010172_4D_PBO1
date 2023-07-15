@@ -34,7 +34,7 @@ public class PenggunaBeraksi {
 ObjekPengguna[] penggunaArray = new ObjekPengguna[jumlahPengguna];
 ```
 
-3. **Atribut** adalah variabel yang ada dalam class. Pada kode ini, `nama` dan `usia` adalah contoh atribut.
+3. **Atribut** adalah variabel yang ada dalam class. Pada kode ini, `nama`, `usia`, `pendapatan`, `tabungan`, `bersenangSenang`, dan `investasi` adalah contoh atribut.
 
 ```bash
     private String nama;
@@ -53,7 +53,7 @@ ObjekPengguna[] penggunaArray = new ObjekPengguna[jumlahPengguna];
     }
 ```
 
-5. **Mutator** atau setter digunakan untuk mengubah nilai dari suatu atribut. Pada kode ini, `setNama` dan `setUsia` adalah contoh method mutator.
+5. **Mutator** atau setter digunakan untuk mengubah nilai dari suatu atribut. Pada kode ini, `setNama`, `setUsia` dan `setPendapatan` adalah contoh method mutator.
 
 ```bash
     public void setNama(String nama) {
